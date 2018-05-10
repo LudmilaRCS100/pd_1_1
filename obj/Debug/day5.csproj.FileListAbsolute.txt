@@ -1,0 +1,7 @@
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\bin\Debug\day5.exe.config
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\bin\Debug\day5.exe
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\bin\Debug\day5.pdb
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\obj\Debug\day5.csprojResolveAssemblyReference.cache
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\obj\Debug\day5.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\obj\Debug\day5.exe
+C:\Users\Ludmila\Documents\day1\day5\day5\day5\obj\Debug\day5.pdb
