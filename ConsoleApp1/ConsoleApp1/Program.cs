@@ -33,18 +33,33 @@ namespace ConsoleApp1
             Console.WriteLine(skaitlis3);
             
             Console.ReadLine();//ievade
-        }
-        static void FunkcijaDiametrs()//diametrs
-        {
+
+            int c, a, b;
+            a = 5;
+            b = 2;
+            c = a * b;//diametrs
+
+            Console.WriteLine(c);
+
+            Console.ReadLine();//ievade
+
+            int z;
+            a = 5;
+            b = 2;
+
+            float pi = 3.14f;
+            float rinkalaukums = 2 * pi * a;
+
+
+
+            Console.WriteLine(rinkalaukums);
+
+            Console.ReadLine();//ievade
+
             
-           
-        }
-        static void FunkcijaLaukums()//laukums
-        {
-
-
-        }
+        }           
         
+              
 
 
         
