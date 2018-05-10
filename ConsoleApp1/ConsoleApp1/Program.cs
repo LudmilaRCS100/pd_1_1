@@ -56,8 +56,20 @@ namespace ConsoleApp1
 
             Console.ReadLine();//ievade
 
-            
-        }           
+            //4 uzdevums
+
+            static string Funkcija5(string "Mans skaitlis ir" + X) //3 parametri funkcija- 3 simbolu virknes
+
+            {
+
+                string x = skaitlis; //string mainigaja kombine simbolu virknes
+
+                return x;
+
+
+                
+
+            }           
         
               
 
