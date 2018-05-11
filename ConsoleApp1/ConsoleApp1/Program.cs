@@ -58,22 +58,78 @@ namespace ConsoleApp1
 
             //4 uzdevums
 
-            static string Funkcija5(string "Mans skaitlis ir" + X) //3 parametri funkcija- 3 simbolu virknes
+            /*String dati2;
+
+            Console.WriteLine("Vai sveicinasies?(atbildi ludzu ar JA vai NE ");
+
+            dati2 = Console.ReadLine();
+
+
+
+            if (dati2 == "NE")
 
             {
 
-                string x = skaitlis; //string mainigaja kombine simbolu virknes
+                Console.WriteLine("zel gan");
 
-                return x;
-
-
-                
-
-            }           
-        
-              
+                Console.ReadLine();
 
 
-        
+
+            }
+
+            else
+
+            {
+
+                if (dati2 == "JA")
+
+                {
+
+
+
+                    Console.WriteLine("Ka tevi sauc?");
+
+                }
+
+                Console.ReadLine();
+
+                }
+
+                */
+
+        }
+
+        static void Funkcija()
+
+
+
+        {
+
+
+
+            string x;
+
+            Console.WriteLine("Ievadiet skaitli ");
+
+            x = Console.ReadLine();
+
+
+
+            string rezultats = ("Mana virkne" + x);
+
+
+
+            Console.WriteLine(rezultats);
+
+            Console.ReadLine();
+
+        }
+
+
+
+
+
     }
+
 }
